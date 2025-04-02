@@ -1,0 +1,4 @@
+Date,BondID,BondName,Term,Yield
+2023-01-01,GOV001,Treasury 10Y,10Y,0.035
+2023-01-02,GOV001,Treasury 10Y,10Y,0.037
+2023-01-03,GOV001,Treasury 10Y,10Y,0.039
