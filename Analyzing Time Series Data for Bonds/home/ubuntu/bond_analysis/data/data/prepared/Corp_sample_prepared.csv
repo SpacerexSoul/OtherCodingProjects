@@ -1,0 +1,4 @@
+Date,BondID,BondName,Sector,Yield
+2023-01-01,CORP001,ABC Corp Bond,Technology,0.05
+2023-01-02,CORP001,ABC Corp Bond,Technology,0.052
+2023-01-03,CORP001,ABC Corp Bond,Technology,0.055

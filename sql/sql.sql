@@ -1,0 +1,5 @@
+CREATE DATABASE HedgeFund;
+GO
+
+USE HedgeFund;
+GO
