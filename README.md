@@ -23,5 +23,7 @@ This repository contains a collection of various coding projects and analyses I'
 - SQL
 - Data Analysis Tools
 - Time Series Analysis
+- JAVA
+- MAVEN
 
 Feel free to explore each project's directory for more detailed information and documentation. 
